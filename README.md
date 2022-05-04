@@ -16,4 +16,3 @@ Made with ♥ by Rosa
 ### @2019 Run Buddy, Inc
 
 
-this is a test if i can get the idea how to pull from github to develop 
