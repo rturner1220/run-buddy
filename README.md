@@ -11,4 +11,4 @@ A website that offers fitnes training services.
 https://lernantino.github.io/run-buddy
 
 ## Contribution
-Made with ♥ by [Rosa]
+Made with ♥ by Rosa
