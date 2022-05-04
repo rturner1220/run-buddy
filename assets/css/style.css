@@ -123,6 +123,11 @@ section {
     font-size: 16px;
     }
 
+.hero-cta h2 {
+    color: #fce138
+     
+}
+
 .intro {
     text-align: center;
 }
