@@ -14,6 +14,9 @@ body {
 header {
    padding: 20px 35px;
    background-color: #39a6b2;
+   display: flex;
+   justify-content: space-between;
+   flex-wrap: wrap;
 }
 
 header h1 {
@@ -21,7 +24,6 @@ header h1 {
     font-size: 36px;
     color: #fce138;
     margin: 0;
-    display: inline;
 }
 
 header a {
@@ -30,7 +32,6 @@ header a {
 }
 
 header nav {
-    float: right;
     margin: 7px 0;
 }
 
@@ -122,11 +123,6 @@ section {
     padding: 10px 20px;
     font-size: 16px;
     }
-
-.hero-cta h2 {
-    color: #fce138
-     
-}
 
 .intro {
     text-align: center;
@@ -258,7 +254,7 @@ background: #fce138;
 }
 
 .contact-info h3 {
-    color: #fce138
+    color: #fce138;
     font-size: 32px;
 }
 
